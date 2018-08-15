@@ -1,0 +1,6 @@
+[2018-08-09 09:57:17.988] [ERROR] console - (node:30720) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-09 09:57:17.990] [ERROR] console - (node:30720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-09 09:57:17.991] [ERROR] console - (node:30720) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

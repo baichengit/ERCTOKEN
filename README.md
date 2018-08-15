@@ -1,0 +1,3 @@
+# ERC2O
+# ERC20
+# ERCTOKEN

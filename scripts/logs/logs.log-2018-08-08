@@ -1,0 +1,44 @@
+[2018-08-08 18:18:57.731] [ERROR] console - (node:29491) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:56:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:18:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-08 18:18:57.735] [ERROR] console - (node:29491) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-08 18:18:57.735] [ERROR] console - (node:29491) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:27:39.359] [INFO] console - 0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:73:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:29:55.320] [ERROR] console - (node:29619) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:29:55.321] [ERROR] console - (node:29619) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:29:55.321] [ERROR] console - (node:29619) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:31:01.906] [ERROR] console - (node:29629) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:31:01.908] [ERROR] console - (node:29629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:31:01.908] [ERROR] console - (node:29629) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:34:53.174] [ERROR] console - (node:29661) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:34:53.176] [ERROR] console - (node:29661) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:34:53.177] [ERROR] console - (node:29661) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:36:09.089] [ERROR] console - (node:29671) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:36:09.092] [ERROR] console - (node:29671) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:36:09.092] [ERROR] console - (node:29671) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

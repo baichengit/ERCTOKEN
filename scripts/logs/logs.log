@@ -1,0 +1,2050 @@
+[2018-08-08 18:18:57.731] [ERROR] console - (node:29491) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:56:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:18:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-08 18:18:57.735] [ERROR] console - (node:29491) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-08 18:18:57.735] [ERROR] console - (node:29491) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:27:39.359] [INFO] console - 0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:73:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:27:39.366] [ERROR] console - (node:29600) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:29:55.320] [ERROR] console - (node:29619) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:29:55.321] [ERROR] console - (node:29619) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:29:55.321] [ERROR] console - (node:29619) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:31:01.906] [ERROR] console - (node:29629) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:31:01.908] [ERROR] console - (node:29629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:31:01.908] [ERROR] console - (node:29629) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:34:53.174] [ERROR] console - (node:29661) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:34:53.176] [ERROR] console - (node:29661) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:34:53.177] [ERROR] console - (node:29661) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-08 18:36:09.089] [ERROR] console - (node:29671) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-08 18:36:09.092] [ERROR] console - (node:29671) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-08 18:36:09.092] [ERROR] console - (node:29671) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-09 09:57:17.988] [ERROR] console - (node:30720) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-09 09:57:17.990] [ERROR] console - (node:30720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-09 09:57:17.991] [ERROR] console - (node:30720) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 11:35:37.654] [ERROR] console - (node:43526) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 11:35:37.656] [ERROR] console - (node:43526) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 11:35:37.656] [ERROR] console - (node:43526) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 11:37:25.841] [ERROR] console - (node:43537) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:71:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 11:37:25.843] [ERROR] console - (node:43537) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 11:37:25.843] [ERROR] console - (node:43537) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 14:31:16.895] [ERROR] console - (node:44163) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'estimateGas' of undefined
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:60:53)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 14:31:16.897] [ERROR] console - (node:44163) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 14:31:16.897] [ERROR] console - (node:44163) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 14:33:06.778] [INFO] console - gasPrice: 252000000
+[2018-08-13 14:33:06.780] [ERROR] console - (node:44175) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'estimateGas' of undefined
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:64:53)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 14:33:06.780] [ERROR] console - (node:44175) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 14:33:06.780] [ERROR] console - (node:44175) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 14:35:54.929] [INFO] console - gasPrice: 252000000
+[2018-08-13 14:35:54.931] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 14:36:51.538] [INFO] console - undefined
+[2018-08-13 14:37:16.659] [ERROR] console - (node:44216) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'arguments' of undefined
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:63:50)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 14:37:16.662] [ERROR] console - (node:44216) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 14:37:16.662] [ERROR] console - (node:44216) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 14:39:41.650] [ERROR] console - (node:44289) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'arguments' of undefined
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:63:50)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 14:39:41.652] [ERROR] console - (node:44289) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 14:39:41.652] [ERROR] console - (node:44289) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 14:40:21.296] [INFO] console - undefined
+[2018-08-13 14:44:36.449] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 14:45:25.446] [INFO] console - undefined
+[2018-08-13 14:52:07.478] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 14:55:54.720] [INFO] console - 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 14:55:54.721] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 14:56:25.376] [INFO] console - undefined
+[2018-08-13 14:56:25.379] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 15:19:31.783] [INFO] console - 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 15:19:31.785] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 15:19:31.791] [ERROR] console - (node:44671) UnhandledPromiseRejectionWarning: ReferenceError: gasPrice is not defined
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:78:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 15:19:31.791] [ERROR] console - (node:44671) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:19:31.791] [ERROR] console - (node:44671) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:20:09.943] [INFO] console - 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 15:20:09.945] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'batchTransfer',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b5060405161024d38038061024d8339810180604052810190808051906020019092919080518201929190602001805182019291905050506000808251845114801561005d57506001845110155b151561006857600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b8351811015610205578473ffffffffffffffffffffffffffffffffffffffff16827c0100000000000000000000000000000000000000000000000000000000900433868481518110151561011b57fe5b90602001906020020151868581518110151561013357fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156101f857600080fd5b80806001019150506100cb565b50505050506035806102186000396000f3006080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        deployedBytecode: '0x6080604052600080fd00a165627a7a72305820fce4ddeca62cc4aca16a2700f6ce2be466be33c09e01f69499bdbeb3ddea72980029',
+        sourceMap: '26:487:1:-;;;56:455;8:9:-1;5:2;;;30:1;27;20:12;5:2;56:455:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;234:15;324:9;183:7;:14;162:10;:17;:35;:61;;;;;222:1;201:10;:17;:22;;162:61;154:70;;;;;;;;259:50;;;;;;;;;;;;;;;;;;;;;;;;234:76;;336:1;324:13;;320:185;344:10;:17;340:1;:21;320:185;;;385:13;:18;;404:8;385:67;;;414:10;426;437:1;426:13;;;;;;;;;;;;;;;;;;441:7;449:1;441:10;;;;;;;;;;;;;;;;;;385:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;384:68;381:114;;;472:8;;;381:114;363:3;;;;;;;320:185;;;56:455;;;;;26:487;;;;;;',
+        deployedSourceMap: '26:487:1:-;;;;;',
+        source: 'pragma solidity ^0.4.16;\n\ncontract batchTransfer {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/batchTransfer.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-08T10:24:32.021Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { inputs: [Array],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'constructor' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     allEvents: [Function: bound ] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 15:20:09.952] [ERROR] console - (node:44678) UnhandledPromiseRejectionWarning: TypeError: IONCBatchInstance.batchTransfer is not a function
+    at Object.batchTransfer (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:74:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 15:20:09.952] [ERROR] console - (node:44678) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:20:09.953] [ERROR] console - (node:44678) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:27:08.656] [ERROR] console - (node:44735) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:27:08.658] [ERROR] console - (node:44735) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:27:08.658] [ERROR] console - (node:44735) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:29:37.136] [ERROR] console - (node:44756) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:29:37.137] [ERROR] console - (node:44756) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:29:37.138] [ERROR] console - (node:44756) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:31:11.764] [INFO] console - 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 15:31:13.396] [ERROR] console - (node:44773) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:31:13.396] [ERROR] console - (node:44773) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:31:13.397] [ERROR] console - (node:44773) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:33:59.734] [ERROR] console - (node:44797) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:33:59.737] [ERROR] console - (node:44797) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:33:59.737] [ERROR] console - (node:44797) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:34:59.703] [INFO] console - 210000000
+[2018-08-13 15:35:01.232] [ERROR] console - (node:44807) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:35:01.232] [ERROR] console - (node:44807) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:35:01.233] [ERROR] console - (node:44807) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:39:24.514] [INFO] console - 210000000
+[2018-08-13 15:39:26.281] [ERROR] console - (node:44923) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:39:26.281] [ERROR] console - (node:44923) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:39:26.281] [ERROR] console - (node:44923) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:52:53.568] [INFO] console - 210000000
+[2018-08-13 15:52:55.200] [ERROR] console - (node:45062) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:52:55.201] [ERROR] console - (node:45062) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:52:55.201] [ERROR] console - (node:45062) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:58:02.216] [INFO] console - 210000000
+[2018-08-13 15:58:04.466] [ERROR] console - (node:45136) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:58:04.467] [ERROR] console - (node:45136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:58:04.467] [ERROR] console - (node:45136) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 15:58:50.242] [INFO] console - 210000000
+[2018-08-13 15:58:52.699] [ERROR] console - (node:45144) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 15:58:52.699] [ERROR] console - (node:45144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 15:58:52.699] [ERROR] console - (node:45144) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:20:33.137] [ERROR] console - (node:45400) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:41:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:20:33.138] [ERROR] console - (node:45400) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:20:33.138] [ERROR] console - (node:45400) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:21:33.745] [ERROR] console - (node:45417) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:41:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:21:33.747] [ERROR] console - (node:45417) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:21:33.747] [ERROR] console - (node:45417) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:24:57.731] [ERROR] console - (node:45446) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:41:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:24:57.732] [ERROR] console - (node:45446) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:24:57.732] [ERROR] console - (node:45446) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:25:33.635] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 16:25:33.639] [ERROR] console - (node:45452) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:37:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:42:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:25:33.639] [ERROR] console - (node:45452) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:25:33.640] [ERROR] console - (node:45452) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:28:46.574] [INFO] console - 1
+[2018-08-13 16:28:46.575] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 16:28:46.578] [ERROR] console - (node:45478) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:37:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:43:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:28:46.579] [ERROR] console - (node:45478) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:28:46.579] [ERROR] console - (node:45478) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:29:20.055] [INFO] console - 1
+[2018-08-13 16:29:20.058] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 16:29:20.061] [ERROR] console - (node:45484) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:37:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:43:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:29:20.061] [ERROR] console - (node:45484) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:29:20.061] [ERROR] console - (node:45484) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:33:43.582] [INFO] console - 1
+[2018-08-13 16:33:43.584] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 16:33:43.587] [ERROR] console - (node:45585) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:37:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:43:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:16:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:33:43.588] [ERROR] console - (node:45585) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:33:43.588] [ERROR] console - (node:45585) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:35:19.260] [INFO] console - [ { constant: false,
+    inputs: [ [Object], [Object], [Object] ],
+    name: 'batchTransfer',
+    outputs: [],
+    payable: false,
+    stateMutability: 'nonpayable',
+    type: 'function' } ]
+[2018-08-13 16:35:19.548] [INFO] console - 1
+[2018-08-13 16:35:19.552] [ERROR] console - (node:45600) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:41)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:42:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:15:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:35:19.552] [ERROR] console - (node:45600) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:35:19.553] [ERROR] console - (node:45600) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:39:14.836] [INFO] console - [ { constant: false,
+    inputs: [ [Object], [Object], [Object] ],
+    name: 'batchTransfer',
+    outputs: [],
+    payable: false,
+    stateMutability: 'nonpayable',
+    type: 'function' } ]
+[2018-08-13 16:39:14.967] [INFO] console - 1
+[2018-08-13 16:39:14.970] [ERROR] console - (node:45638) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:41)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:42:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:15:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:39:14.970] [ERROR] console - (node:45638) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:39:14.971] [ERROR] console - (node:45638) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:40:24.358] [INFO] console - [ { constant: false,
+    inputs: [ [Object], [Object], [Object] ],
+    name: 'batchTransfer',
+    outputs: [],
+    payable: false,
+    stateMutability: 'nonpayable',
+    type: 'function' } ]
+[2018-08-13 16:40:24.499] [INFO] console - 1
+[2018-08-13 16:40:24.502] [ERROR] console - (node:45647) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:41)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:42:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:15:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-13 16:40:24.502] [ERROR] console - (node:45647) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-13 16:40:24.503] [ERROR] console - (node:45647) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:43:19.766] [INFO] console - { contractName: 'MMTBatch',
+  abi: 
+   [ { constant: false,
+       inputs: [Array],
+       name: 'batchTransfer',
+       outputs: [],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'function' } ],
+  bytecode: '0x608060405234801561001057600080fd5b50610300806100206000396000f300608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+  deployedBytecode: '0x608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+  sourceMap: '26:489:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:489:0;;;;;;;',
+  deployedSourceMap: '26:489:0:-;;;;;;;;;;;;;;;;;;;;;;;;51:462;;8:9:-1;5:2;;;30:1;27;20:12;5:2;51:462:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;236:15;326:9;185:7;:14;164:10;:17;:35;:61;;;;;224:1;203:10;:17;:22;;164:61;156:70;;;;;;;;261:50;;;;;;;;;;;;;;;;;;;;;;;;236:76;;338:1;326:13;;322:185;346:10;:17;342:1;:21;322:185;;;387:13;:18;;406:8;387:67;;;416:10;428;439:1;428:13;;;;;;;;;;;;;;;;;;443:7;451:1;443:10;;;;;;;;;;;;;;;;;;387:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;386:68;383:114;;;474:8;;;383:114;365:3;;;;;;;322:185;;;51:462;;;;;:::o',
+  source: 'pragma solidity ^0.4.16;\n\ncontract MMTBatch {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) public {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+  sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+  ast: 
+   { absolutePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+     exportedSymbols: { MMTBatch: [Array] },
+     id: 67,
+     nodeType: 'SourceUnit',
+     nodes: [ [Object], [Object] ],
+     src: '0:515:0' },
+  legacyAST: 
+   { absolutePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+     exportedSymbols: { MMTBatch: [Array] },
+     id: 67,
+     nodeType: 'SourceUnit',
+     nodes: [ [Object], [Object] ],
+     src: '0:515:0' },
+  compiler: 
+   { name: 'solc',
+     version: '0.4.23+commit.124ca40d.Emscripten.clang' },
+  networks: {},
+  schemaVersion: '2.0.0',
+  updatedAt: '2018-08-13T08:41:48.356Z' }
+[2018-08-13 16:43:19.896] [INFO] console - 1
+[2018-08-13 16:43:23.608] [INFO] console - 2
+[2018-08-13 16:43:25.556] [INFO] console - 3
+[2018-08-13 16:43:27.009] [INFO] console - 200000000
+[2018-08-13 16:43:29.970] [ERROR] console - (node:45701) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 16:43:29.970] [ERROR] console - (node:45701) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 16:43:29.970] [ERROR] console - (node:45701) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:45:11.562] [INFO] console - { contractName: 'MMTBatch',
+  abi: 
+   [ { constant: false,
+       inputs: [Array],
+       name: 'batchTransfer',
+       outputs: [],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'function' } ],
+  bytecode: '0x608060405234801561001057600080fd5b50610300806100206000396000f300608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+  deployedBytecode: '0x608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+  sourceMap: '26:489:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:489:0;;;;;;;',
+  deployedSourceMap: '26:489:0:-;;;;;;;;;;;;;;;;;;;;;;;;51:462;;8:9:-1;5:2;;;30:1;27;20:12;5:2;51:462:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;236:15;326:9;185:7;:14;164:10;:17;:35;:61;;;;;224:1;203:10;:17;:22;;164:61;156:70;;;;;;;;261:50;;;;;;;;;;;;;;;;;;;;;;;;236:76;;338:1;326:13;;322:185;346:10;:17;342:1;:21;322:185;;;387:13;:18;;406:8;387:67;;;416:10;428;439:1;428:13;;;;;;;;;;;;;;;;;;443:7;451:1;443:10;;;;;;;;;;;;;;;;;;387:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;386:68;383:114;;;474:8;;;383:114;365:3;;;;;;;322:185;;;51:462;;;;;:::o',
+  source: 'pragma solidity ^0.4.16;\n\ncontract MMTBatch {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) public {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+  sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+  ast: 
+   { absolutePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+     exportedSymbols: { MMTBatch: [Array] },
+     id: 67,
+     nodeType: 'SourceUnit',
+     nodes: [ [Object], [Object] ],
+     src: '0:515:0' },
+  legacyAST: 
+   { absolutePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+     exportedSymbols: { MMTBatch: [Array] },
+     id: 67,
+     nodeType: 'SourceUnit',
+     nodes: [ [Object], [Object] ],
+     src: '0:515:0' },
+  compiler: 
+   { name: 'solc',
+     version: '0.4.23+commit.124ca40d.Emscripten.clang' },
+  networks: {},
+  schemaVersion: '2.0.0',
+  updatedAt: '2018-08-13T08:41:48.356Z' }
+[2018-08-13 16:45:23.220] [INFO] console - 200000000
+[2018-08-13 16:45:24.854] [ERROR] console - (node:45721) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 16:45:24.854] [ERROR] console - (node:45721) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 16:45:24.855] [ERROR] console - (node:45721) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:51:12.139] [INFO] console - 200000000
+[2018-08-13 16:51:13.187] [ERROR] console - (node:45809) UnhandledPromiseRejectionWarning: Error: Unknown address - unable to sign transaction for this address: "0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac"
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:185:35
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:207:5
+    at WalletSubprovider.opts.getAccounts (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/wallet.js:12:5)
+    at WalletSubprovider.HookedWalletSubprovider.validateSender (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:204:8)
+    at WalletSubprovider.HookedWalletSubprovider.validateTransaction (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:183:8)
+    at async.waterfall (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:87:22)
+    at nextTask (/Users/yves/nodeworkspace/ERC2O/node_modules/async/dist/async.js:5324:14)
+    at Object.waterfall (/Users/yves/nodeworkspace/ERC2O/node_modules/async/dist/async.js:5334:5)
+    at WalletSubprovider.HookedWalletSubprovider.handleRequest (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:86:13)
+    at next (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/index.js:95:18)
+[2018-08-13 16:51:13.187] [ERROR] console - (node:45809) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 16:51:13.188] [ERROR] console - (node:45809) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:51:48.874] [INFO] console - 200000000
+[2018-08-13 16:51:50.917] [ERROR] console - (node:45822) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 16:51:50.918] [ERROR] console - (node:45822) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 16:51:50.918] [ERROR] console - (node:45822) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 16:58:27.213] [INFO] console - 200000000
+[2018-08-13 16:58:29.461] [INFO] console - balance: balance: 
+[2018-08-13 16:59:03.928] [INFO] console - 200000000
+[2018-08-13 16:59:05.812] [INFO] console - balance: 11100000000000000010
+[2018-08-13 17:00:28.255] [INFO] console - 200000000
+[2018-08-13 17:00:31.524] [ERROR] console - (node:45903) UnhandledPromiseRejectionWarning: ReferenceError: balance is not defined
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:50:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-13 17:00:31.524] [ERROR] console - (node:45903) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:00:31.524] [ERROR] console - (node:45903) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:00:59.893] [INFO] console - 200000000
+[2018-08-13 17:01:04.291] [INFO] console - balance: 11.1
+[2018-08-13 17:04:12.654] [INFO] console - 200000000
+[2018-08-13 17:04:16.084] [INFO] console - balance: 11.1
+[2018-08-13 17:04:17.927] [ERROR] console - (node:45938) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:04:17.927] [ERROR] console - (node:45938) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:04:17.928] [ERROR] console - (node:45938) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:04:57.122] [INFO] console - 200000000
+[2018-08-13 17:05:00.413] [INFO] console - balance: 11.1
+[2018-08-13 17:05:02.053] [ERROR] console - (node:45945) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:05:02.054] [ERROR] console - (node:45945) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:05:02.055] [ERROR] console - (node:45945) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:05:44.560] [INFO] console - 200000000
+[2018-08-13 17:05:48.439] [INFO] console - balance: 11.1
+[2018-08-13 17:05:48.439] [INFO] console - 0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac
+[2018-08-13 17:05:50.104] [ERROR] console - (node:45955) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:05:50.105] [ERROR] console - (node:45955) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:05:50.105] [ERROR] console - (node:45955) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:09:13.315] [INFO] console - 200000000
+[2018-08-13 17:09:16.620] [INFO] console - balance: 11.1
+[2018-08-13 17:09:16.620] [INFO] console - 0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac
+[2018-08-13 17:09:18.402] [ERROR] console - (node:45989) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:09:18.402] [ERROR] console - (node:45989) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:09:18.402] [ERROR] console - (node:45989) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:11:55.459] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:11:58.676] [INFO] console - balanceOf: 11.1
+[2018-08-13 17:11:58.676] [INFO] console - senderAddress: 0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac
+[2018-08-13 17:11:59.445] [ERROR] console - (node:46016) UnhandledPromiseRejectionWarning: Error: Unknown address - unable to sign transaction for this address: "0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B"
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:185:35
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:207:5
+    at WalletSubprovider.opts.getAccounts (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/wallet.js:12:5)
+    at WalletSubprovider.HookedWalletSubprovider.validateSender (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:204:8)
+    at WalletSubprovider.HookedWalletSubprovider.validateTransaction (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:183:8)
+    at async.waterfall (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:87:22)
+    at nextTask (/Users/yves/nodeworkspace/ERC2O/node_modules/async/dist/async.js:5324:14)
+    at Object.waterfall (/Users/yves/nodeworkspace/ERC2O/node_modules/async/dist/async.js:5334:5)
+    at WalletSubprovider.HookedWalletSubprovider.handleRequest (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:86:13)
+    at next (/Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/index.js:95:18)
+[2018-08-13 17:11:59.446] [ERROR] console - (node:46016) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:11:59.446] [ERROR] console - (node:46016) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:12:56.997] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:13:00.467] [INFO] console - balanceOf: 11.1
+[2018-08-13 17:13:00.467] [INFO] console - senderAddress: 0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac
+[2018-08-13 17:13:02.210] [ERROR] console - (node:46033) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:13:02.210] [ERROR] console - (node:46033) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:13:02.210] [ERROR] console - (node:46033) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:13:43.993] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:13:47.366] [INFO] console - balanceOf: 11.1
+[2018-08-13 17:13:47.367] [INFO] console - senderAddress: 0x01b09833245Bf407dfe129fe8ffA7071bEe2A9ac
+[2018-08-13 17:13:48.978] [ERROR] console - (node:46041) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:13:48.979] [ERROR] console - (node:46041) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:13:48.979] [ERROR] console - (node:46041) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:15:22.504] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:15:25.802] [INFO] console - balanceOf: 20999988.900000002
+[2018-08-13 17:15:25.803] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:15:27.517] [ERROR] console - (node:46059) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:15:27.517] [ERROR] console - (node:46059) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:15:27.518] [ERROR] console - (node:46059) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:17:36.033] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:17:39.323] [INFO] console - balanceOf: 20999988.900000002
+[2018-08-13 17:17:39.324] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:17:41.047] [ERROR] console - (node:46077) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:17:41.048] [ERROR] console - (node:46077) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:17:41.048] [ERROR] console - (node:46077) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:18:39.114] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:18:43.000] [INFO] console - balanceOf: 20999988.900000002
+[2018-08-13 17:18:43.001] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:18:44.912] [ERROR] console - (node:46089) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:18:44.912] [ERROR] console - (node:46089) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:18:44.912] [ERROR] console - (node:46089) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:22:24.988] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:22:29.107] [INFO] console - balanceOf: 20999988.900000002
+[2018-08-13 17:22:29.108] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:22:31.142] [ERROR] console - (node:46131) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:22:31.142] [ERROR] console - (node:46131) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:22:31.142] [ERROR] console - (node:46131) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:25:55.023] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:25:59.263] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 17:25:59.263] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:26:01.369] [ERROR] console - (node:46170) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:26:01.369] [ERROR] console - (node:46170) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:26:01.370] [ERROR] console - (node:46170) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:34:38.304] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:34:41.469] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 17:34:41.470] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:34:43.213] [ERROR] console - (node:46267) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:34:43.213] [ERROR] console - (node:46267) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:34:43.213] [ERROR] console - (node:46267) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:39:57.688] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:40:02.190] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 17:40:02.190] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:40:03.996] [ERROR] console - (node:46385) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:40:03.997] [ERROR] console - (node:46385) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:40:03.997] [ERROR] console - (node:46385) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:48:57.377] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:49:01.049] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 17:49:01.050] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:49:01.943] [ERROR] console - (node:46466) UnhandledPromiseRejectionWarning: Error: invalid address
+    at inputAddressFormatter (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/formatters.js:274:11)
+    at inputTransactionFormatter (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/formatters.js:100:20)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:89:28
+    at Array.map (<anonymous>)
+    at Method.formatInput (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:88:32)
+    at Method.toPayload (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:114:23)
+    at Eth.send [as sendTransaction] (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:139:30)
+    at SolidityFunction.sendTransaction (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/function.js:173:15)
+    at SolidityFunction.execute (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/function.js:256:37)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:204:16
+[2018-08-13 17:49:01.943] [ERROR] console - (node:46466) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+[2018-08-13 17:49:01.943] [ERROR] console - (node:46466) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 17:49:50.184] [INFO] console - gasPrice: 200000000
+[2018-08-13 17:49:54.987] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 17:49:54.988] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 17:49:57.243] [ERROR] console - (node:46476) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 17:49:57.243] [ERROR] console - (node:46476) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 17:49:57.244] [ERROR] console - (node:46476) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:01:12.466] [INFO] console - gasPrice: 200000000
+[2018-08-13 18:01:16.247] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 18:01:16.247] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 18:01:17.735] [ERROR] console - (node:46586) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 18:01:17.736] [ERROR] console - (node:46586) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 18:01:17.736] [ERROR] console - (node:46586) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:04:27.974] [INFO] console - gasPrice: 200000000
+[2018-08-13 18:04:30.705] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 18:04:30.705] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 18:04:31.386] [ERROR] console - (node:46623) UnhandledPromiseRejectionWarning: Error: invalid address
+    at inputAddressFormatter (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/formatters.js:274:11)
+    at inputTransactionFormatter (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/formatters.js:100:20)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:89:28
+    at Array.map (<anonymous>)
+    at Method.formatInput (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:88:32)
+    at Method.toPayload (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:114:23)
+    at Eth.send [as sendTransaction] (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/method.js:139:30)
+    at SolidityFunction.sendTransaction (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/function.js:173:15)
+    at SolidityFunction.execute (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/function.js:256:37)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:204:16
+[2018-08-13 18:04:31.387] [ERROR] console - (node:46623) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+[2018-08-13 18:04:31.387] [ERROR] console - (node:46623) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:31:47.370] [INFO] console - gasPrice: 200000000
+[2018-08-13 18:31:51.156] [INFO] console - balanceOf: 20999987.9
+[2018-08-13 18:31:51.156] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 18:31:52.920] [ERROR] console - (node:46940) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 18:31:52.920] [ERROR] console - (node:46940) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 18:31:52.920] [ERROR] console - (node:46940) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:33:11.995] [INFO] console - gasPrice: 200000000
+[2018-08-13 18:33:11.996] [INFO] console - senderAddress: e9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 18:33:13.018] [ERROR] console - (node:46952) UnhandledPromiseRejectionWarning: BigNumber Error: new BigNumber() not a number: e9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+    at raise (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/bignumber.js/bignumber.js:1177:25)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/bignumber.js/bignumber.js:1165:33
+    at new BigNumber (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/bignumber.js/bignumber.js:193:67)
+    at new BigNumber (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/bignumber.js/bignumber.js:203:25)
+    at toBigNumber (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/utils/utils.js:379:12)
+    at Object.toTwosComplement (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/utils/utils.js:390:21)
+    at SolidityTypeAddress.formatInputInt [as _inputFormatter] (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/solidity/formatters.js:40:38)
+    at SolidityTypeAddress.SolidityType.encode (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/solidity/type.js:188:17)
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/solidity/coder.js:91:29
+    at Array.map (<anonymous>)
+[2018-08-13 18:33:13.020] [ERROR] console - (node:46952) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+[2018-08-13 18:33:13.020] [ERROR] console - (node:46952) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:35:33.966] [INFO] console - gasPrice: 200000000
+[2018-08-13 18:35:33.968] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-13 18:35:33.968] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 18:35:35.568] [ERROR] console - (node:46974) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 18:35:35.568] [ERROR] console - (node:46974) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 18:35:35.568] [ERROR] console - (node:46974) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-13 18:41:13.791] [INFO] console - 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-13 18:41:13.793] [INFO] console - TruffleContract {
+  constructor: 
+   { [Function: TruffleContract]
+     _static_methods: 
+      { setProvider: [Function: setProvider],
+        new: [Function: new],
+        at: [Function: at],
+        deployed: [Function: deployed],
+        defaults: [Function: defaults],
+        hasNetwork: [Function: hasNetwork],
+        isDeployed: [Function: isDeployed],
+        detectNetwork: [Function: detectNetwork],
+        setNetwork: [Function: setNetwork],
+        resetAddress: [Function: resetAddress],
+        link: [Function: link],
+        clone: [Function: clone],
+        addProp: [Function: addProp],
+        toJSON: [Function: toJSON] },
+     _properties: 
+      { contract_name: [Object],
+        contractName: [Object],
+        abi: [Object],
+        network: [Function: network],
+        networks: [Function: networks],
+        address: [Object],
+        transactionHash: [Object],
+        links: [Function: links],
+        events: [Function: events],
+        binary: [Function: binary],
+        deployedBinary: [Function: deployedBinary],
+        unlinked_binary: [Object],
+        bytecode: [Object],
+        deployedBytecode: [Object],
+        sourceMap: [Object],
+        deployedSourceMap: [Object],
+        source: [Object],
+        sourcePath: [Object],
+        legacyAST: [Object],
+        ast: [Object],
+        compiler: [Object],
+        schema_version: [Function: schema_version],
+        schemaVersion: [Function: schemaVersion],
+        updated_at: [Function: updated_at],
+        updatedAt: [Function: updatedAt] },
+     _property_values: {},
+     _json: 
+      { contractName: 'MMTBatch',
+        abi: [Array],
+        bytecode: '0x608060405234801561001057600080fd5b50610300806100206000396000f300608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+        deployedBytecode: '0x608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631239ec8c14610046575b600080fd5b34801561005257600080fd5b5061010d600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190803590602001908201803590602001908080602002602001604051908101604052809392919081815260200183836020028082843782019150505050505091929192908035906020019082018035906020019080806020026020016040519081016040528093929190818152602001838360200280828437820191505050505050919291929050505061010f565b005b6000808251845114801561012557506001845110155b151561013057600080fd5b60405180807f7472616e7366657246726f6d28616464726573732c616464726573732c75696e81526020017f7432353629000000000000000000000000000000000000000000000000000000815250602501905060405180910390209150600090505b83518110156102cd578473ffffffffffffffffffffffffffffffffffffffff16827c010000000000000000000000000000000000000000000000000000000090043386848151811015156101e357fe5b9060200190602002015186858151811015156101fb57fe5b906020019060200201516040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200193505050506000604051808303816000875af19250505015156102c057600080fd5b8080600101915050610193565b50505050505600a165627a7a7230582037f654ac5f3fdf83c7d9456c9c2032a6ee5331cd5bd65d2f11350c5f145a23d70029',
+        sourceMap: '26:489:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:489:0;;;;;;;',
+        deployedSourceMap: '26:489:0:-;;;;;;;;;;;;;;;;;;;;;;;;51:462;;8:9:-1;5:2;;;30:1;27;20:12;5:2;51:462:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;236:15;326:9;185:7;:14;164:10;:17;:35;:61;;;;;224:1;203:10;:17;:22;;164:61;156:70;;;;;;;;261:50;;;;;;;;;;;;;;;;;;;;;;;;236:76;;338:1;326:13;;322:185;346:10;:17;342:1;:21;322:185;;;387:13;:18;;406:8;387:67;;;416:10;428;439:1;428:13;;;;;;;;;;;;;;;;;;443:7;451:1;443:10;;;;;;;;;;;;;;;;;;387:67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;386:68;383:114;;;474:8;;;383:114;365:3;;;;;;;322:185;;;51:462;;;;;:::o',
+        source: 'pragma solidity ^0.4.16;\n\ncontract MMTBatch {\n\n    function batchTransfer(address _tokenAddress, address[] _receivers, uint256[] _values) public {\n\n        require(_receivers.length == _values.length && _receivers.length >= 1);\n        bytes4 methodId = bytes4(keccak256("transferFrom(address,address,uint256)"));\n        for(uint256 i = 0 ; i < _receivers.length; i++){\n            if(!_tokenAddress.call(methodId, msg.sender, _receivers[i], _values[i])) {\n                revert();\n            }\n        }\n    }\n}',
+        sourcePath: '/Users/yves/nodeworkspace/contractDeployFactory/contracts/MMTBatch.sol',
+        ast: [Object],
+        legacyAST: [Object],
+        compiler: [Object],
+        networks: {},
+        schemaVersion: '2.0.1',
+        updatedAt: '2018-08-13T08:41:48.356Z' },
+     setProvider: [Function: bound setProvider],
+     new: [Function: bound new],
+     at: [Function: bound at],
+     deployed: [Function: bound deployed],
+     defaults: [Function: bound defaults],
+     hasNetwork: [Function: bound hasNetwork],
+     isDeployed: [Function: bound isDeployed],
+     detectNetwork: [Function: bound detectNetwork],
+     setNetwork: [Function: bound setNetwork],
+     resetAddress: [Function: bound resetAddress],
+     link: [Function: bound link],
+     clone: [Function: bound clone],
+     addProp: [Function: bound addProp],
+     toJSON: [Function: bound toJSON],
+     web3: 
+      Web3 {
+        _requestManager: [Object],
+        currentProvider: [Object],
+        eth: [Object],
+        db: [Object],
+        shh: [Object],
+        net: [Object],
+        personal: [Object],
+        bzz: [Object],
+        settings: [Object],
+        version: [Object],
+        providers: [Object],
+        _extend: [Object] },
+     class_defaults: {},
+     currentProvider: 
+      WalletProvider {
+        wallet: [Object],
+        address: '0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032',
+        engine: [Object] },
+     network_id: '3' },
+  abi: 
+   [ { constant: false,
+       inputs: [Array],
+       name: 'batchTransfer',
+       outputs: [],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'function' } ],
+  contract: 
+   Contract {
+     _eth: 
+      Eth {
+        _requestManager: [Object],
+        getBalance: [Object],
+        getStorageAt: [Object],
+        getCode: [Object],
+        getBlock: [Object],
+        getUncle: [Object],
+        getCompilers: [Object],
+        getBlockTransactionCount: [Object],
+        getBlockUncleCount: [Object],
+        getTransaction: [Object],
+        getTransactionFromBlock: [Object],
+        getTransactionReceipt: [Object],
+        getTransactionCount: [Object],
+        call: [Object],
+        estimateGas: [Object],
+        sendRawTransaction: [Object],
+        signTransaction: [Object],
+        sendTransaction: [Object],
+        sign: [Object],
+        compile: [Object],
+        submitWork: [Object],
+        getWork: [Object],
+        coinbase: [Getter],
+        getCoinbase: [Object],
+        mining: [Getter],
+        getMining: [Object],
+        hashrate: [Getter],
+        getHashrate: [Object],
+        syncing: [Getter],
+        getSyncing: [Object],
+        gasPrice: [Getter],
+        getGasPrice: [Object],
+        accounts: [Getter],
+        getAccounts: [Object],
+        blockNumber: [Getter],
+        getBlockNumber: [Object],
+        protocolVersion: [Getter],
+        getProtocolVersion: [Object],
+        iban: [Object],
+        sendIBANTransaction: [Function: bound transfer] },
+     transactionHash: null,
+     address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+     abi: [ [Object] ],
+     batchTransfer: 
+      { [Function: bound ]
+        request: [Function: bound ],
+        call: [Function: bound ],
+        sendTransaction: [Function: bound ],
+        estimateGas: [Function: bound ],
+        getData: [Function: bound ],
+        'address,address[],uint256[]': [Circular] },
+     allEvents: [Function: bound ] },
+  batchTransfer: 
+   { [Function]
+     call: [Function],
+     sendTransaction: [Function],
+     request: [Function: bound ],
+     estimateGas: [Function] },
+  sendTransaction: [Function],
+  send: [Function],
+  allEvents: [Function: bound ],
+  address: '0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B',
+  transactionHash: null }
+[2018-08-13 18:41:15.524] [ERROR] console - (node:47022) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-13 18:41:15.524] [ERROR] console - (node:47022) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-13 18:41:15.524] [ERROR] console - (node:47022) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 09:20:31.323] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:20:31.326] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:20:31.326] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 09:29:42.595] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:29:42.597] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:29:42.597] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:29:45.488] [ERROR] console - (node:48943) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:29:45.488] [ERROR] console - (node:48943) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:29:45.489] [ERROR] console - (node:48943) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 09:48:58.394] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:48:58.396] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:48:58.396] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:49:00.029] [ERROR] console - (node:49121) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:49:00.030] [ERROR] console - (node:49121) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:49:00.030] [ERROR] console - (node:49121) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:19:34.755] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:19:34.756] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:19:34.756] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:19:37.413] [ERROR] console - (node:49407) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:19:37.414] [ERROR] console - (node:49407) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:19:37.414] [ERROR] console - (node:49407) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:49:00.394] [ERROR] console - (node:49689) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:41:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:15:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-14 10:49:00.395] [ERROR] console - (node:49689) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-14 10:49:00.396] [ERROR] console - (node:49689) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:50:41.515] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:50:41.517] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:50:41.517] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:55:53.011] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:55:53.012] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:55:53.012] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:55:55.459] [ERROR] console - (node:49746) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:55:55.460] [ERROR] console - (node:49746) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:55:55.460] [ERROR] console - (node:49746) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:56:18.180] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:56:22.085] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 10:56:22.085] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:56:22.085] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 11:59:14.830] [INFO] console - gasPrice: 1000000000
+[2018-08-14 11:59:20.457] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 11:59:20.457] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 11:59:20.458] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 11:59:22.711] [ERROR] console - (node:50367) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 11:59:22.712] [ERROR] console - (node:50367) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 11:59:22.712] [ERROR] console - (node:50367) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 12:02:12.055] [INFO] console - gasPrice: 1000000000
+[2018-08-14 12:02:16.207] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 12:02:16.207] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 12:02:16.207] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 12:02:18.021] [ERROR] console - (node:50393) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 12:02:18.021] [ERROR] console - (node:50393) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 12:02:18.022] [ERROR] console - (node:50393) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 09:14:54.921] [INFO] console - gasPrice: 1000000000
+[2018-08-15 09:14:58.115] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 09:14:58.116] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 09:14:58.116] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 09:14:59.597] [ERROR] console - (node:55097) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 09:14:59.597] [ERROR] console - (node:55097) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 09:14:59.598] [ERROR] console - (node:55097) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 09:43:19.842] [INFO] console - gasPrice: 1000000000
+[2018-08-15 09:43:29.614] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 09:43:29.614] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 09:43:29.615] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 09:43:36.457] [ERROR] console - (node:55632) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 09:43:36.457] [ERROR] console - (node:55632) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 09:43:36.457] [ERROR] console - (node:55632) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 09:46:17.367] [INFO] console - gasPrice: 1000000000
+[2018-08-15 09:46:20.205] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 09:46:20.205] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 09:46:20.205] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 09:46:21.606] [ERROR] console - (node:55754) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 09:46:21.606] [ERROR] console - (node:55754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 09:46:21.606] [ERROR] console - (node:55754) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:00:34.467] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:00:38.429] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:00:38.429] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:00:38.430] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:00:39.855] [ERROR] console - (node:55953) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:00:39.855] [ERROR] console - (node:55953) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:00:39.856] [ERROR] console - (node:55953) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:05:51.963] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:05:55.353] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:05:55.353] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:05:55.354] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:05:57.528] [ERROR] console - (node:56435) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:05:57.528] [ERROR] console - (node:56435) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:05:57.529] [ERROR] console - (node:56435) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:07:06.439] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:07:09.977] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:07:09.977] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:07:09.977] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:07:11.581] [ERROR] console - (node:56446) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:07:11.582] [ERROR] console - (node:56446) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:07:11.582] [ERROR] console - (node:56446) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:12:30.276] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:12:34.085] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:12:34.085] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:12:34.085] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:12:35.684] [ERROR] console - (node:56557) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:12:35.684] [ERROR] console - (node:56557) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:12:35.684] [ERROR] console - (node:56557) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:13:27.517] [INFO] console - provider.address: 0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032
+[2018-08-15 10:13:33.356] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:14:28.180] [INFO] console - provider.address: 0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032
+[2018-08-15 10:15:22.107] [INFO] console - provider.address: 0xe9d42e59d3f8f8dc207f48a5c4c5c31444fd7032
+[2018-08-15 10:15:28.417] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:15:33.668] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:15:33.669] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:15:33.669] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:15:34.992] [ERROR] console - (node:56590) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:15:34.992] [ERROR] console - (node:56590) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:15:34.992] [ERROR] console - (node:56590) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:21:13.045] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:21:15.711] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:21:15.712] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:21:15.712] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:21:17.031] [ERROR] console - (node:56728) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:21:17.032] [ERROR] console - (node:56728) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:21:17.032] [ERROR] console - (node:56728) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:31:43.179] [INFO] console - privateKeyBuffer ; [object Object]
+[2018-08-15 10:31:50.497] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:31:55.405] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:31:55.405] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:31:55.405] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:31:57.403] [ERROR] console - (node:56823) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:31:57.403] [ERROR] console - (node:56823) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:31:57.403] [ERROR] console - (node:56823) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:37:48.950] [INFO] console - privateKeyBuffer ; [object Object]
+[2018-08-15 10:37:56.954] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:38:01.271] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:38:01.272] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:38:01.272] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:38:03.227] [ERROR] console - (node:56989) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:38:03.227] [ERROR] console - (node:56989) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:38:03.228] [ERROR] console - (node:56989) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:39:34.784] [ERROR] console - (node:57013) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:39:34.785] [ERROR] console - (node:57013) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:39:34.786] [ERROR] console - (node:57013) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:40:12.881] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:40:16.047] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:40:16.048] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:40:16.048] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:40:17.485] [ERROR] console - (node:57018) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:40:17.485] [ERROR] console - (node:57018) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:40:17.485] [ERROR] console - (node:57018) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:41:54.475] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:41:57.733] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:41:57.733] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:41:57.733] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:42:00.036] [ERROR] console - (node:57034) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:42:00.037] [ERROR] console - (node:57034) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:42:00.037] [ERROR] console - (node:57034) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:42:45.142] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:42:47.912] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:42:47.912] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:42:47.912] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:42:49.400] [ERROR] console - (node:57042) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:42:49.401] [ERROR] console - (node:57042) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:42:49.401] [ERROR] console - (node:57042) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:45:18.689] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:45:21.419] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:45:21.419] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:45:21.420] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:45:22.799] [ERROR] console - (node:57056) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:45:22.799] [ERROR] console - (node:57056) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:45:22.800] [ERROR] console - (node:57056) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:51:41.480] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:51:44.902] [INFO] console - balanceOf: 20999986.9
+[2018-08-15 10:51:44.903] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-15 10:51:44.903] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:51:46.951] [ERROR] console - (node:57193) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-15 10:51:46.951] [ERROR] console - (node:57193) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:51:46.952] [ERROR] console - (node:57193) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:56:28.721] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:56:31.592] [INFO] console - balanceOf: 13.1
+[2018-08-15 10:56:31.592] [INFO] console - senderAddress: 0x01b09833245bf407dfe129fe8ffa7071bee2a9ac
+[2018-08-15 10:56:31.592] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:56:33.729] [ERROR] console - (node:57237) UnhandledPromiseRejectionWarning: Error: transaction underpriced
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/web3.js:15:44
+    at XMLHttpRequest.request.onreadystatechange (/Users/yves/nodeworkspace/ERC2O/node_modules/web3/lib/web3/httpprovider.js:118:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpResponseEnd (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:509:12)
+    at IncomingMessage.<anonymous> (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:469:24)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+[2018-08-15 10:56:33.729] [ERROR] console - (node:57237) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:56:33.729] [ERROR] console - (node:57237) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 10:57:46.876] [INFO] console - gasPrice: 1000000000
+[2018-08-15 10:57:50.039] [INFO] console - balanceOf: 13.1
+[2018-08-15 10:57:50.040] [INFO] console - senderAddress: 0x01b09833245bf407dfe129fe8ffa7071bee2a9ac
+[2018-08-15 10:57:50.040] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-15 10:59:22.895] [ERROR] console - (node:57266) UnhandledPromiseRejectionWarning: Error: exceeds block gas limit
+    at /Users/yves/nodeworkspace/ERC2O/node_modules/web3-provider-engine/subproviders/web3.js:15:44
+    at XMLHttpRequest.request.onreadystatechange (/Users/yves/nodeworkspace/ERC2O/node_modules/web3/lib/web3/httpprovider.js:118:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:354:12)
+    at XMLHttpRequest._onHttpResponseEnd (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:509:12)
+    at IncomingMessage.<anonymous> (/Users/yves/nodeworkspace/ERC2O/node_modules/xhr2/lib/xhr2.js:469:24)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+[2018-08-15 10:59:22.897] [ERROR] console - (node:57266) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-15 10:59:22.897] [ERROR] console - (node:57266) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-15 11:00:35.631] [INFO] transfer - {"tx":"0xe70840505a72d3e459c4de3cc83bcd0875797d92e59caca52cec0d68f34e623f","receipt":{"blockHash":"0x24a6596ff0015f067b844b74b09f5afb74a0f5bcc64c1106afb6aaa9191b1102","blockNumber":3839409,"contractAddress":null,"cumulativeGasUsed":886121,"from":"0x01b09833245bf407dfe129fe8ffa7071bee2a9ac","gasUsed":46052,"logs":[{"address":"0x6147f2e4c6a363bb55b0e95af3e3a8bec56e068a","topics":["0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef","0x00000000000000000000000001b09833245bf407dfe129fe8ffa7071bee2a9ac","0x000000000000000000000000e9d42e59d3f8f8dc207f48a5c4c5c31444fd7032"],"data":"0x0000000000000000000000000000000000000000000000000000000000000001","blockNumber":3839409,"transactionHash":"0xe70840505a72d3e459c4de3cc83bcd0875797d92e59caca52cec0d68f34e623f","transactionIndex":8,"blockHash":"0x24a6596ff0015f067b844b74b09f5afb74a0f5bcc64c1106afb6aaa9191b1102","logIndex":7,"removed":false}],"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000400000000000000000000000000000000000000000000000000000000009000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000080000000000000020000000000000000000000100002000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000","status":"0x1","to":"0xedb15fdcec8830af1fdf1a634cd35a7a1840c00b","transactionHash":"0xe70840505a72d3e459c4de3cc83bcd0875797d92e59caca52cec0d68f34e623f","transactionIndex":8},"logs":[]}
+[2018-08-15 11:04:05.534] [INFO] console - gasPrice: 1200000000
+[2018-08-15 11:04:07.253] [INFO] console - gas: 69387
+[2018-08-15 11:05:02.895] [INFO] transfer - {"tx":"0x873259bc71457a5c46d7191ce292040d84585bfe6487d245d97cbe363626f266","receipt":{"blockHash":"0x9a16781b082cec8dff40b67de0116da61950486a168c78c5b18252fb9993ff86","blockNumber":3839430,"contractAddress":null,"cumulativeGasUsed":46372,"from":"0x01b09833245bf407dfe129fe8ffa7071bee2a9ac","gasUsed":46372,"logs":[{"address":"0x6147f2e4c6a363bb55b0e95af3e3a8bec56e068a","topics":["0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef","0x00000000000000000000000001b09833245bf407dfe129fe8ffa7071bee2a9ac","0x000000000000000000000000e9d42e59d3f8f8dc207f48a5c4c5c31444fd7032"],"data":"0x0000000000000000000000000000000000000000000000000de0b6b3a7640000","blockNumber":3839430,"transactionHash":"0x873259bc71457a5c46d7191ce292040d84585bfe6487d245d97cbe363626f266","transactionIndex":0,"blockHash":"0x9a16781b082cec8dff40b67de0116da61950486a168c78c5b18252fb9993ff86","logIndex":0,"removed":false}],"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000400000000000000000000000000000000000000000000000000000000009000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000080000000000000020000000000000000000000100002000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000","status":"0x1","to":"0xedb15fdcec8830af1fdf1a634cd35a7a1840c00b","transactionHash":"0x873259bc71457a5c46d7191ce292040d84585bfe6487d245d97cbe363626f266","transactionIndex":0},"logs":[]}

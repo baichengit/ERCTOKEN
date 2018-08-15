@@ -1,0 +1,70 @@
+[2018-08-14 09:20:31.323] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:20:31.326] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:20:31.326] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:20:33.819] [ERROR] console - (node:48864) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 09:29:42.595] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:29:42.597] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:29:42.597] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:29:45.488] [ERROR] console - (node:48943) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:29:45.488] [ERROR] console - (node:48943) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:29:45.489] [ERROR] console - (node:48943) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 09:48:58.394] [INFO] console - gasPrice: 210000000
+[2018-08-14 09:48:58.396] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 09:48:58.396] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 09:49:00.029] [ERROR] console - (node:49121) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 09:49:00.030] [ERROR] console - (node:49121) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 09:49:00.030] [ERROR] console - (node:49121) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:19:34.755] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:19:34.756] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:19:34.756] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:19:37.413] [ERROR] console - (node:49407) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:19:37.414] [ERROR] console - (node:49407) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:19:37.414] [ERROR] console - (node:49407) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:49:00.394] [ERROR] console - (node:49689) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'filter' of undefined
+    at addFunctionsToContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:56:18)
+    at ContractFactory.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/node_modules/web3/lib/web3/contract.js:267:5)
+    at TruffleContract.Contract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:283:33)
+    at new TruffleContract (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:613:25)
+    at Function.at (/Users/yves/nodeworkspace/ERC2O/node_modules/truffle-contract/contract.js:425:22)
+    at getIONCBatchInstance (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:36:19)
+    at Object.approve (/Users/yves/nodeworkspace/ERC2O/scripts/ioncbatch_mainnet_privkey.js:41:11)
+    at Object.<anonymous> (/Users/yves/nodeworkspace/ERC2O/batchTransfer.js:15:10)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+[2018-08-14 10:49:00.395] [ERROR] console - (node:49689) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[2018-08-14 10:49:00.396] [ERROR] console - (node:49689) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:50:41.515] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:50:41.517] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:50:41.517] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:50:43.762] [ERROR] console - (node:49694) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:55:53.011] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:55:53.012] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:55:53.012] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:55:55.459] [ERROR] console - (node:49746) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:55:55.460] [ERROR] console - (node:49746) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:55:55.460] [ERROR] console - (node:49746) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 10:56:18.180] [INFO] console - gasPrice: 210000000
+[2018-08-14 10:56:22.085] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 10:56:22.085] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 10:56:22.085] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 10:56:23.828] [ERROR] console - (node:49750) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 11:59:14.830] [INFO] console - gasPrice: 1000000000
+[2018-08-14 11:59:20.457] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 11:59:20.457] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 11:59:20.458] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 11:59:22.711] [ERROR] console - (node:50367) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 11:59:22.712] [ERROR] console - (node:50367) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 11:59:22.712] [ERROR] console - (node:50367) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2018-08-14 12:02:12.055] [INFO] console - gasPrice: 1000000000
+[2018-08-14 12:02:16.207] [INFO] console - balanceOf: 20999986.9
+[2018-08-14 12:02:16.207] [INFO] console - senderAddress: 0xe9d42e59D3f8F8dC207f48a5C4C5C31444Fd7032
+[2018-08-14 12:02:16.207] [INFO] console - IONCBatchAddress: 0xEdB15fDCeC8830af1Fdf1A634CD35a7A1840c00B
+[2018-08-14 12:02:18.021] [ERROR] console - (node:50393) UnhandledPromiseRejectionWarning: Account not found
+[2018-08-14 12:02:18.021] [ERROR] console - (node:50393) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+[2018-08-14 12:02:18.022] [ERROR] console - (node:50393) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
